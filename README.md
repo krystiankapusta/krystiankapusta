@@ -2,16 +2,19 @@
 I'm a Computer Science student with hands-on experience gained through a completed internship. I'm passionate about solving problems and constantly improving my skills in backend development and cloud technologies.
 
 🔭 I’m currently working on full-stack application Pick&Save, a product comparison app that helps users find the best deals across stores
-<br>
+
 👯 I’m looking to collaborate on projects involving:
-- Microservices architecture
-- Docker & RabbitMQ
-- Java Spring Boot
-<br>
-🌱  I’m currently learning:
-- Advanced microservices patterns
-- Kubernetes basics
-<br>
+
+  - Microservices architecture
+  - Docker & RabbitMQ
+  - Java Spring Boot
+
+🌱 I’m currently learning:
+
+  - Advanced microservices architecture and design patterns  
+  - Kubernetes fundamentals and container orchestration  
+  - Frontend development with React and TypeScript
+
 💬 Ask me about anything
 
 
